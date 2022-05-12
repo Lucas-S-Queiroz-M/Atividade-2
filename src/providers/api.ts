@@ -1,4 +1,5 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
+/*
 import Axios from 'axios';
 
 const api   = Axios.create({
@@ -16,3 +17,5 @@ api.interceptors.request.use(async (config) => {
 
 
 export default api;
+
+*/

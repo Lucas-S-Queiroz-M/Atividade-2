@@ -28,7 +28,6 @@ export function Toolbar (props: ToolbarProps) {
 
   return (
     <Header 
-        backgroundColor='transparent'
         leftComponent={leftComponent} 
         centerComponent={{text: props.titulo, style:{color: 'white'}}} 
         containerStyle={{backgroundColor:'darkcyan'}} />

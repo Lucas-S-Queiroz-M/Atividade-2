@@ -119,7 +119,7 @@ const cadastrar = async (usuario) => {
 
 const styles = StyleSheet.create({
   container:{
-    flex:1,
+    flex:20,
     justifyContent: 'center',
     alignItems: 'center'
   },

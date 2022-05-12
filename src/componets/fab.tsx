@@ -1,6 +1,7 @@
 import * as React from 'react';
-import { View, StyleSheet, Text, TouchableOpacity } from 'react-native';
+import { View, StyleSheet, Text } from 'react-native';
 import { Icon } from 'react-native-elements';
+import { TouchableOpacity } from 'react-native-gesture-handler';
 
 /** Propriedades do FabButton */
 export interface FabProps {
